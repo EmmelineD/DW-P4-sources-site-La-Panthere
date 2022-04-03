@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 18px;
 }
 
 .tight-width-whitespace {
@@ -780,11 +780,11 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #364577!important;
     color: #FFFFFF!important;
 }
 
@@ -801,7 +801,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color: #364577!important;
 }
 
 .icon-dark-slate-blue {
@@ -1039,4 +1039,31 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+/* modification footer*/
+
+.align-center {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px 0 10px 0;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.text-presentation {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.citation {
+    
+}
+
+.citation-people {
+
 }
